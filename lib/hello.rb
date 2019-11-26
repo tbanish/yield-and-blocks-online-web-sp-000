@@ -14,4 +14,4 @@ def hello_t(array)
 end
 
 # call your method here!
-def hello_t(array)
+hello_t(array)
